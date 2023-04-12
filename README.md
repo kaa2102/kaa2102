@@ -14,7 +14,7 @@
 Arena Simulation, C/C++, Java, Linux, LAMP, Numpy, Pandas, PHP, PowerBI, Python, Tableau, Snowflake, SQL.
 
 ### More Information:
-
+- <a href="https://getordinalprime.com">Ordinal Prime</a> 
 - <a href="https://startlearningpython.com">Start Learning Python</a> 
 - I'm open to work
 - 🔭 I’m currently working on Defining Scalable Systems, Continuous Improvement, Automation with Python and APIs
