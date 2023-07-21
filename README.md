@@ -1,7 +1,14 @@
-### Hello, world! 👋 I am K. Alexander Ashe
+### Hello, world! 👋 I am Keith Alexander Ashe
 
 <!--
 **kaa2102/kaa2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+### Companies
+* Rollbar
+* PyForward
+* Ordinal Prime
+* Happy Money
+* Citibank
 
 ### About Me
 * I grew up in Miami
