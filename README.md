@@ -3,8 +3,11 @@
 <!--
 **kaa2102/kaa2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+### Online Courses
+<a href="https://getpyforward.com">PyForward</a>
+
 ### Companies
-Ordinal Prime/PyForward, Happy Money, Citibank, Booz Allen
+Rollbar, Ordinal Prime, Happy Money, Citibank, Booz Allen
 
 ### About Me
 * I grew up in Miami
