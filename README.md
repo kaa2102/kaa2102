@@ -4,7 +4,7 @@
 **kaa2102/kaa2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Online Courses
-<a href="https://udemy.com/course/pyforward.com">PyForward - Python Data Analysis Course on Udemy</a>
+<a href="https://udemy.com/course/pyforward">PyForward - Python Data Analysis Course on Udemy</a>
 
 ### Companies
 Rollbar, Ordinal Prime, Happy Money, Citibank, Booz Allen
