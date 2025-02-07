@@ -21,7 +21,8 @@ Rollbar, Ordinal Prime, Happy Money, Citibank, Booz Allen
 AI, Arena Simulation, Covasim, C/C++, Java, Machine Learning, Linux, LAMP, Numpy, Pandas, PHP, PowerBI, Python, Snowflake, SQL.
 
 ### More Information:
-- 🌱 I’m currently working on <a href="https://docs.idmod.org/models.html#starsim">Starsim</a>, a suite of agent-based disease models built in Python 
+- I am currently <a href="https://www.cms.gov/medicare/quality/end-stage-renal-disease-esrd-quality-incentive-program">dialysis facilities</a> for the Center for Medicare & Medicaid Services as a big data engineer
+- 🌱 I helped build <a href="https://docs.idmod.org/models.html#starsim">Starsim</a>, a suite of agent-based disease models built in Python 
 - 💬 Ask me about Lean Six Sigma, Learning to Code, Big Data Analytics with Python
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/keithashe">LinkedIn</a>, <a href="https://www.instagram.com/lifeofkaashe">Instagram</a>, <a href="https://www.twitter.com/lifeofkaashe">Twitter</a>, <a href="https://keithashe.medium.com/">Blog</a>
 - ⚡ Fun fact: I know how to surf!
