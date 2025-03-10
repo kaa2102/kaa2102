@@ -9,7 +9,7 @@
 - <a href="https://udemy.com/course/6sigma-forward">6σForward - Introduction to Lean Six Sigma</a>
 
 ### Companies
-Rollbar, Ordinal Prime, Happy Money, Citibank, Booz Allen
+Ordinal Prime, Happy Money, Citibank, Booz Allen
 
 ### About Me
 * I grew up in Miami
@@ -19,7 +19,7 @@ Rollbar, Ordinal Prime, Happy Money, Citibank, Booz Allen
 * I am a full stack developer
 
 ### Languages and Tools I have worked with:
-AI, Arena Simulation, Covasim, C/C++, Java, Machine Learning, Linux, LAMP, Numpy, Pandas, PHP, PowerBI, Python, Snowflake, SQL.
+AI/Machine Learning, Arena Simulation, Apache Spark, Covasim, Java, Linux, LAMP, Numpy, Pandas, PHP, PowerBI, Python, Scala, Sciris, SciPy, Starsim, Snowflake, SQL.
 
 ### More Information:
 - 🌱 I am currently evaluting <a href="https://www.cms.gov/medicare/quality/end-stage-renal-disease-esrd-quality-incentive-program">dialysis facilities</a> for the Center for Medicare & Medicaid Services as a big data engineer
